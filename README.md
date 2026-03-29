@@ -1,7 +1,10 @@
 🛍️ Customer Shopping Behavior Analysis
 📌 Overview
+
 This project analyzes customer shopping data to uncover purchasing patterns, customer preferences, and sales trends.
+
 It demonstrates a complete end-to-end data analytics workflow including data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard visualization using Power BI.
+
 📂 Dataset
 File: customer_shopping_behavior.csv
 Contains customer demographics, purchase details, and transaction data
